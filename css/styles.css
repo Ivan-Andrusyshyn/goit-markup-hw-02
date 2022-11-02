@@ -7,7 +7,7 @@
 --color-dark:#2F303A;
 --color-filter-btn:#F5F4FA;
 --color-whiteblue: #72abda;
---color-grayfooter:rgba(255, 255, 255, 0.6);
+--color-grayfooter: rgba(255, 255, 255, 0.6);
 }
 body {
     color: var(--color-black);
